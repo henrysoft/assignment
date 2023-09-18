@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
         int num1 = 10;
-        int num2 = 5;
+        int num2 = 15;
         double num3 = 7.5;
         double num4 = 2.5;
 
